@@ -1,7 +1,8 @@
+// TODO: Update configuration values for actual site
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
+    title: `Daniel Chan`,
+    author: `Daniel Chan`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
@@ -57,7 +58,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Daniel Chan`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
